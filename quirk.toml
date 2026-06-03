@@ -1,0 +1,8 @@
+name          = "datetime"
+version       = "1.0.0"
+license       = "MIT"
+description   = "Calendar dates + times. Owns the `DateTime` struct and the surrounding helpers: constructors (`now`, `from_unix`, `from_iso`, `make`, …), arithmetic on the struct (`add_seconds`, `diff_seconds`, `is"
+repository    = "github.com/AlexVachon/quirk-datetime"
+quirk-version = ">=1.4.0"
+
+[deps]
